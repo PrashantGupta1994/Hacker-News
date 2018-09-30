@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "84368977391",
+    "firebase_url": "https://hacker-news-007.firebaseio.com",
+    "project_id": "hacker-news-007",
+    "storage_bucket": "hacker-news-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84368977391:android:5d820e7a6e28cce6",
+        "android_client_info": {
+          "package_name": "com.news.hackernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84368977391-58av04h5d3qjq3e29l7cadlaueqgq6uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgbUmJvnrsQ3mO_Rt6CcHihq8UhqJswM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
